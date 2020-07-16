@@ -1,0 +1,88 @@
+body {
+  background: rgb(73, 117, 103);
+  font-size: 10px;
+}
+
+a {
+  text-decoration: underline;
+
+}
+em {
+  color: black;
+  font-size: 120%;
+  font-style:italic;
+  text-transform:capitalize;
+
+}
+p {
+  color: white;
+  font-family: sans-serif;
+  font-size: 14px;
+  text-align: center;
+
+}
+
+.intro-page {
+  background-color: rgb(41, 163, 112);
+
+}
+
+.image1-page {
+  background-color: rgb(41, 163, 112);
+}
+
+.image2-page {
+  background-color: rgb(41, 163, 112);
+}
+
+.front-page {
+  background-color: rgb(41, 163, 112);
+}
+
+.logo-text {
+
+  background: rgb(66, 245, 188);
+  display: block;
+  font-size: 35px;
+  line-height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  text-transform: uppercase;
+  width: 200px;
+}
+
+ol {
+  list-style-type: upper-roman;
+}
+
+ul {
+  font-size: 20px;
+  list-style-type: square;
+}
+
+.page-item {
+  font-size: 14px;
+  text-align: left;
+}
+
+.thumbnail-title {
+  background: rgb(66, 245, 188);
+  color: black;
+  display: block;
+  font-size: 18px;
+  margin: 0;
+  padding: 4px 10px;
+  text-align: center;
+}
+
+.thumbnail-image {
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.3);
+  border: 20px solid rgb(0, 0, 0);
+  border: 20px solid rgba(0,0,0,0.1);
+  border-radius: 80px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
